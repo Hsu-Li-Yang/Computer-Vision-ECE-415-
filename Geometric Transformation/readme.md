@@ -5,7 +5,7 @@ It might help you to review the basic computer vision theory
 ## Homogeneous coordinate
 When vectors only differ by scale, they are considered to be eqivalent.
 We can convert homogeneous coordinate back into inhomogeeous coordinate by dividing through by the last element w   
-![f1.png]( https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Geometric%20Transformation/img/f1.png)
+![f1.png]( https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Geometric%20Transformation/img/f1.png)   
 Homogeneous points whose last element w = 0 are called ideal point or points at infinity   
 Homogeneous coordinate help us to easily to implement chain transformation by using matrix multiplitation
 ## Translation
