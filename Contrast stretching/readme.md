@@ -32,5 +32,5 @@ In the histogram of the original image, most of the intensities of pixels are in
 Gamma correction is a non-linear point operation for the image of itensities. The operation is based on formula(3)
 When gamma is less than 1, it would make the pixel with low intensities brighter. When gamma is greater than 1, it would make the shadow part darker.
 ![img4.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Contrast%20stretching/img/img4.png)   
-For example, the fruit and the bottle is very dark in the original image, after the gamma correction in gamma=0.45 they become much more brighter than before.
+The fruit and the bottle is very dark in the original image, after the gamma correction in gamma=0.45 they become much more brighter than before.
 ![img5.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Contrast%20stretching/img/img5.png)
