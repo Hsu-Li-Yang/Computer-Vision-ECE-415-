@@ -4,7 +4,7 @@ It might help you to review the basic computer vision theory
 
 ## Homogeneous and Cartesian coordinate
 Homogeneous coordinate
-<img src="https://render.githubusercontent.com/render/math?math= \textbf{ \tilde{x} }">
+<img src="https://render.githubusercontent.com/render/math?math= \textbf{x}">
 
 
 ## Translation
