@@ -25,7 +25,7 @@ Homogeneous coordinate help us to easily to implement chain transformation by us
 ![hex.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Geometric%20Transformation/img/hex.png)
 ## Conculsion
 
-![result2.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Geometric%20Transformation/img/result2.jpg)
+![result2.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Geometric%20Transformation/img/result2.jpg)   
 This table conclude the degree of freedom and preserved properties for each transformation
 ## Reference 
 [1]Szeliski, Richard. Computer vision: algorithms and applications. Springer Science & Business Media, 2010.
