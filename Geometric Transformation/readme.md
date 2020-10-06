@@ -18,3 +18,12 @@ Homogeneous coordinate help us to easily to implement chain transformation by us
 ![f5.png]( https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Geometric%20Transformation/img/f5.png)
 ## Projective
 ![f6.png]( https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Geometric%20Transformation/img/f6.png)
+
+## Demo
+
+
+## Conculsion
+![result.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Geometric%20Transformation/img/result.jpg)   
+This table conclude the degree of freedom and preserved properties for each transformation
+## Reference 
+[1]Szeliski, Richard. Computer vision: algorithms and applications. Springer Science & Business Media, 2010.
