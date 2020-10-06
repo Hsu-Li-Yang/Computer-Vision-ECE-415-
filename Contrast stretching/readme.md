@@ -23,4 +23,5 @@ Then, we can apply contrast stretching in our image based on formula(2)
 d = max pixel value in image, and c = min pixel value in image.   
 In the condition of except 5% lowest value and except 5% highest value, c would be 6 and d would be 95.    
 **=>a = 0, b = 255, c = 6 and d = 95**
-
+![img_3.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Contrast%20stretching/img/img_3.png)
+In the histogram of the original image, most of the intensities of pixels are in the range of [6,95]. After the processing, the intensities of pixels are stretched to [0,255]. Because the contrast of the image is enhanced, the object in image would be easier to identify to others. In contrast stretching, we manipulate the entire range of intensity values. Most of the squares in the middle remain the same color in the original image.
