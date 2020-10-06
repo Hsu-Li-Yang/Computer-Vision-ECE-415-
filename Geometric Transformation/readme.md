@@ -23,7 +23,7 @@ Homogeneous coordinate help us to easily to implement chain transformation by us
 <div align=center>![tri.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Geometric%20Transformation/img/tri.png)
 
 ## Conculsion
-<img src="https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Geometric%20Transformation/img/result.jp." width = "100" height = "100" div align=center />
+
 ![result.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Geometric%20Transformation/img/result.jpg)   
 This table conclude the degree of freedom and preserved properties for each transformation
 ## Reference 
