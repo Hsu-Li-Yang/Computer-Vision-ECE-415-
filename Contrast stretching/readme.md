@@ -12,4 +12,4 @@ However, the global threshold can extract the detail feature in this image.
 Therefore, I also implement the adaptive thresholding algorithm. The adaptive thresholding algorithm that the threshold would be dynamically change based on the formula(1).
 ![f1.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Contrast%20stretching/img/f1.png)
 Block: 7x7 matrix. c is constant that c = 1. In adaptive thresholding algorithm, it can extract the detail feature in image.
-![img_2.png](![img_1.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Contrast%20stretching/img/img_1.png))
+![img_2.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Contrast%20stretching/img/img_2.png))
