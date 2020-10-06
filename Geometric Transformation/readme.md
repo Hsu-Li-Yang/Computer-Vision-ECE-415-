@@ -4,7 +4,7 @@ It might help you to review the basic computer vision theory
 
 ## Homogeneous and Cartesian coordinate
 Homogeneous coordinate
-[f1]( https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Geometric%20Transformation/img/f1.png)
+![f1.png]( https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Geometric%20Transformation/img/f1.png)
 ## Translation
 ## Euclidian
 
