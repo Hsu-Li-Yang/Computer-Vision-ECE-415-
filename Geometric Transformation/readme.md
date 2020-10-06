@@ -20,7 +20,8 @@ Homogeneous coordinate help us to easily to implement chain transformation by us
 ![f6.png]( https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Geometric%20Transformation/img/f6.png)
 
 ## Demo
-
+![Tri_Trans.tif](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Geometric%20Transformation/img/demo/Tri_Trans.tif)
+![Tri_Euc.tif](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Geometric%20Transformation/img/demo/Tri_Euc.tif)
 
 ## Conculsion
 ![result.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Geometric%20Transformation/img/result.jpg)   
