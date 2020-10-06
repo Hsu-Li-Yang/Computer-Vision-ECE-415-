@@ -19,12 +19,13 @@ Contrast streching is an common method when the detail of the image is hidden, a
 For example, if I want stretching the image that included 90% of pixel intensities.(i.e except the lowest 5% and highest 5%)
 In our example, the range of our histogram of image, it would be I=6 amd I=95.   
 Then, we can apply contrast stretching in our image based on formula(2)
-![f2.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Contrast%20stretching/img/f2.png)
+![f2.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Contrast%20stretching/img/f2.png) 
 d = max pixel value in image, and c = min pixel value in image.   
 In the condition of except 5% lowest value and except 5% highest value, c would be 6 and d would be 95.    
 **=>a = 0, b = 255, c = 6 and d = 95**
 ![img3.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Contrast%20stretching/img/img3.png)
 In the histogram of the original image, most of the intensities of pixels are in the range of [6,95]. After the processing, the intensities of pixels are stretched to [0,255]. Because the contrast of the image is enhanced, the object in image would be easier to identify to others. In contrast stretching, we manipulate the entire range of intensity values. Most of the squares in the middle remain the same color in the original image.
+ 
 
 ## Gamma Correction
 ![f3.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Contrast%20stretching/img/f3.png)
