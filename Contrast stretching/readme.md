@@ -26,11 +26,17 @@ In the condition of except 5% lowest value and except 5% highest value, c would 
 ![img3.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Contrast%20stretching/img/img3.png)
 In the histogram of the original image, most of the intensities of pixels are in the range of [6,95]. After the processing, the intensities of pixels are stretched to [0,255]. Because the contrast of the image is enhanced, the object in image would be easier to identify to others. In contrast stretching, we manipulate the entire range of intensity values. Most of the squares in the middle remain the same color in the original image.
  
-
 ## Gamma Correction
 ![f3.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Contrast%20stretching/img/f3.png)
 Gamma correction is a non-linear point operation for the image of itensities. The operation is based on formula(3)
 When gamma is less than 1, it would make the pixel with low intensities brighter. When gamma is greater than 1, it would make the shadow part darker.
 ![img4.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Contrast%20stretching/img/img4.png)   
-The fruit and the bottle is very dark in the original image, after the gamma correction in gamma=0.45 they become much more brighter than before.
+For example,the fruit and the bottle is very dark in the original image, after the gamma correction in gamma=0.45 they become much more brighter than before.
 ![img5.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Contrast%20stretching/img/img5.png)
+I also write a GUI that user can use the slider to change the value of gamma, and we can directly see the change in the output image.(Run the code name: Gamma_correction_gui.m)
+![img6.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Contrast%20stretching/img/img6.png)
+
+## Histogram equalization
+![f4.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Contrast%20stretching/img/f4.png)
+In histogram equalization, the histogram would be flattened to normal distribution by formula (4) and (5). Therefore, we have remapped the intensities of the image, so some of the squares in the middle of image would have subtle changes. Unlike contrast stretching just linear stretch the range of the intensity, histogram equalization would get a histogram in normal distribution.
+![img7.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Contrast%20stretching/img/img7.png)
