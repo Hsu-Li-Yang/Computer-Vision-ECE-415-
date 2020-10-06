@@ -22,5 +22,5 @@ Then, we can apply contrast stretching in our image based on formula(2)
 ![f2.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Contrast%20stretching/img/f2.png)
 d = max pixel value in image, and c = min pixel value in image.   
 In the condition of except 5% lowest value and except 5% highest value, c would be 6 and d would be 95.    
-=>a = 0, b = 255, c = 6 and d = 95
+**=>a = 0, b = 255, c = 6 and d = 95**
 
