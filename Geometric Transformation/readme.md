@@ -1,12 +1,12 @@
-## Geometric Transformation
+# Geometric Transformation
 This is an demo for geometric transformation in computer vision
 
-# Translation
+## Translation
 
-# Euclidian
+## Euclidian
 
-# Similarity
+## Similarity
 
-# Affine
+## Affine
 
-# Projective
+## Projective
