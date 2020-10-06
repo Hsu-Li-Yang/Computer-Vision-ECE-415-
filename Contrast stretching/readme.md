@@ -13,6 +13,8 @@ Therefore, I also implement the adaptive thresholding algorithm. The adaptive th
 ![f1.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Contrast%20stretching/img/f1.png)
 Block: 7x7 matrix. c is constant that c = 1. In adaptive thresholding algorithm, it can extract the detail feature in image.
 ![img2.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Contrast%20stretching/img/img2.png)
+I also write a GUI that user can use the slider to change the half window, and we can directly see the change in the output image.(Run the code name: Adaptive_Thresholding_gui.m)
+![img8.png](https://github.com/Hsu-Li-Yang/Computer-Vision-ECE-415-/blob/main/Contrast%20stretching/img/img8.png)
 
 ## Contrast Stretching
 Contrast streching is an common method when the detail of the image is hidden, and you can set the range of the intensities being stretched.   
